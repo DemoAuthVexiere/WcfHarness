@@ -1,6 +1,5 @@
 D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\obj\Debug\Tavisca.Vexiere.WcfHarness.dll
 D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\obj\Debug\Tavisca.Vexiere.WcfHarness.pdb
-D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\obj\Debug\WcfHarness.csprojResolveAssemblyReference.cache
 D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\bin\Tavisca.Vexiere.WcfHarness.dll
 D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\bin\Tavisca.Vexiere.WcfHarness.pdb
 D:\Vexiere Samples\WcfHarness\WcfHarness\WcfHarness\bin\Newtonsoft.Json.dll

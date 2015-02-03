@@ -304,10 +304,6 @@
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
-    <Content Include="Web.Dev.config" />
-    <Content Include="Web.Perf.config" />
-    <Content Include="Web.Qa.config" />
-    <Content Include="Web.Stage.config" />
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
